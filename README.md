@@ -11,7 +11,7 @@
 <h1>
 <p align="center">Semana Front-End</p>
 <p align="center">
-<img width="72%" alt="Logo Mundo Invertido" src="https://hermes.digitalinnovation.one/files/assets/b7e3ecba-7de8-4459-81e5-6a7c99073e41.svg">
+<img width="72%" alt="Logo Mundo Invertido" src="https://raw.githubusercontent.com/HugoHendrix/semana-front-end-mundo-invertido/90c52cd43db0070e2f7e205aeaceddabc4061b3d/assets/images/banner/logo.svg">
 <br>
 <img align="center" alt="Logo Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <img align="center" alt="Logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
